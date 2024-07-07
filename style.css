@@ -1,0 +1,26 @@
+body{
+    padding: 10px;
+}
+
+input {
+    margin: 10px;
+    margin-left: 0;
+}
+
+form div {
+    display: flex;
+    flex-direction: column;
+}
+
+form input{
+    width: 20%;
+}
+
+form textarea {
+    width: 20%;
+}
+
+button {
+    margin: 10px;
+    margin-left: 0;
+}
